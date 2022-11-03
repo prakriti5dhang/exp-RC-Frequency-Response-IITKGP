@@ -80,3 +80,6 @@ In this circuit, the reactance of the capacitor is very high at low frequencies 
 
 $$Magnitude=20  \log{(\frac{R}{Z})}$$
 $$ V_{out}=V_{in}  (\frac{R}{Z})$$
+
+
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
